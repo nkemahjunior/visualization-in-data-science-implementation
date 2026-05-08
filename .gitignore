@@ -1,0 +1,10 @@
+# Ignore all data files
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
