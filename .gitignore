@@ -1,4 +1,5 @@
 # Ignore all data files
+data/VDS2526_Madrid/*.csv
 data/*.csv
 data/*.xlsx
 data/*.json
