@@ -1,4 +1,4 @@
-# Visualisation in Data Science — Group 4
+# Visualisation in Data Science
 ## Air Quality in Madrid (2001–2017)
 
 This project analyses hourly air pollution measurements from 24 monitoring 
@@ -7,7 +7,7 @@ the VDS2526 course at Hasselt University.
 
 The analysis focuses on five key pollutants: NO₂, O₃, PM10, SO₂ and CO. 
 The central finding is that while most pollutants have declined over the 
-16-year period, ozone (O₃) has been quietly rising — and this project 
+16-year period, ozone (O₃) has been quietly rising, and this project 
 shows where and when it peaks.
 
 ---
